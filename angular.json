@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-scratch"
+    }
+  },
+  "defaultProject": "angular-scratch",
+  "cli": {
+    "analytics": "c32f16e5-6ffd-4335-bb34-126ae3c636d1"
+  }
 }
